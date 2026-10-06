@@ -1,0 +1,674 @@
+[
+ {
+  "code": "banda-aceh",
+  "lat": 5.55,
+  "lng": 95.32,
+  "name": "Banda Aceh",
+  "province": "Aceh",
+  "timezone": "WIB"
+ },
+ {
+  "code": "medan",
+  "lat": 3.59,
+  "lng": 98.68,
+  "name": "Medan",
+  "province": "Sumatera Utara",
+  "timezone": "WIB"
+ },
+ {
+  "code": "padang",
+  "lat": -0.95,
+  "lng": 100.35,
+  "name": "Padang",
+  "province": "Sumatera Barat",
+  "timezone": "WIB"
+ },
+ {
+  "code": "pekanbaru",
+  "lat": 0.51,
+  "lng": 101.45,
+  "name": "Pekanbaru",
+  "province": "Riau",
+  "timezone": "WIB"
+ },
+ {
+  "code": "tanjung-pinang",
+  "lat": 0.91,
+  "lng": 104.52,
+  "name": "Tanjung Pinang",
+  "province": "Kepulauan Riau",
+  "timezone": "WIB"
+ },
+ {
+  "code": "jambi",
+  "lat": -1.67,
+  "lng": 103.59,
+  "name": "Jambi",
+  "province": "Jambi",
+  "timezone": "WIB"
+ },
+ {
+  "code": "palembang",
+  "lat": -2.99,
+  "lng": 104.76,
+  "name": "Palembang",
+  "province": "Sumatera Selatan",
+  "timezone": "WIB"
+ },
+ {
+  "code": "pangkal-pinang",
+  "lat": -2.11,
+  "lng": 106.11,
+  "name": "Pangkal Pinang",
+  "province": "Kepulauan Bangka Belitung",
+  "timezone": "WIB"
+ },
+ {
+  "code": "bengkulu",
+  "lat": -3.79,
+  "lng": 102.27,
+  "name": "Bengkulu",
+  "province": "Bengkulu",
+  "timezone": "WIB"
+ },
+ {
+  "code": "bandar-lampung",
+  "lat": -5.43,
+  "lng": 105.27,
+  "name": "Bandar Lampung",
+  "province": "Lampung",
+  "timezone": "WIB"
+ },
+ {
+  "code": "jakarta",
+  "lat": -6.17,
+  "lng": 106.83,
+  "name": "Jakarta",
+  "province": "DKI Jakarta",
+  "timezone": "WIB"
+ },
+ {
+  "code": "serang",
+  "lat": -6.11,
+  "lng": 106.15,
+  "name": "Serang",
+  "province": "Banten",
+  "timezone": "WIB"
+ },
+ {
+  "code": "bandung",
+  "lat": -6.91,
+  "lng": 107.61,
+  "name": "Bandung",
+  "province": "Jawa Barat",
+  "timezone": "WIB"
+ },
+ {
+  "code": "semarang",
+  "lat": -6.97,
+  "lng": 110.42,
+  "name": "Semarang",
+  "province": "Jawa Tengah",
+  "timezone": "WIB"
+ },
+ {
+  "code": "yogyakarta",
+  "lat": -7.8,
+  "lng": 110.37,
+  "name": "Yogyakarta",
+  "province": "DI Yogyakarta",
+  "timezone": "WIB"
+ },
+ {
+  "code": "surabaya",
+  "lat": -7.26,
+  "lng": 112.74,
+  "name": "Surabaya",
+  "province": "Jawa Timur",
+  "timezone": "WIB"
+ },
+ {
+  "code": "denpasar",
+  "lat": -8.67,
+  "lng": 115.2,
+  "name": "Denpasar",
+  "province": "Bali",
+  "timezone": "WITA"
+ },
+ {
+  "code": "mataram",
+  "lat": -8.6,
+  "lng": 116.11,
+  "name": "Mataram",
+  "province": "Nusa Tenggara Barat",
+  "timezone": "WITA"
+ },
+ {
+  "code": "kupang",
+  "lat": -10.16,
+  "lng": 123.66,
+  "name": "Kupang",
+  "province": "Nusa Tenggara Timur",
+  "timezone": "WITA"
+ },
+ {
+  "code": "pontianak",
+  "lat": -0.02,
+  "lng": 109.34,
+  "name": "Pontianak",
+  "province": "Kalimantan Barat",
+  "timezone": "WIB"
+ },
+ {
+  "code": "palangka-raya",
+  "lat": -2.21,
+  "lng": 113.91,
+  "name": "Palangka Raya",
+  "province": "Kalimantan Tengah",
+  "timezone": "WIB"
+ },
+ {
+  "code": "banjarmasin",
+  "lat": -3.33,
+  "lng": 114.59,
+  "name": "Banjarmasin",
+  "province": "Kalimantan Selatan",
+  "timezone": "WITA"
+ },
+ {
+  "code": "samarinda",
+  "lat": -0.5,
+  "lng": 117.14,
+  "name": "Samarinda",
+  "province": "Kalimantan Timur",
+  "timezone": "WITA"
+ },
+ {
+  "code": "tanjung-selor",
+  "lat": 2.76,
+  "lng": 117.43,
+  "name": "Tanjung Selor",
+  "province": "Kalimantan Utara",
+  "timezone": "WITA"
+ },
+ {
+  "code": "manado",
+  "lat": 1.47,
+  "lng": 124.84,
+  "name": "Manado",
+  "province": "Sulawesi Utara",
+  "timezone": "WITA"
+ },
+ {
+  "code": "palu",
+  "lat": -0.9,
+  "lng": 119.86,
+  "name": "Palu",
+  "province": "Sulawesi Tengah",
+  "timezone": "WITA"
+ },
+ {
+  "code": "makassar",
+  "lat": -5.15,
+  "lng": 119.41,
+  "name": "Makassar",
+  "province": "Sulawesi Selatan",
+  "timezone": "WITA"
+ },
+ {
+  "code": "kendari",
+  "lat": -3.97,
+  "lng": 122.59,
+  "name": "Kendari",
+  "province": "Sulawesi Tenggara",
+  "timezone": "WITA"
+ },
+ {
+  "code": "mamuju",
+  "lat": -2.73,
+  "lng": 118.93,
+  "name": "Mamuju",
+  "province": "Sulawesi Barat",
+  "timezone": "WITA"
+ },
+ {
+  "code": "gorontalo",
+  "lat": 0.54,
+  "lng": 123.06,
+  "name": "Gorontalo",
+  "province": "Gorontalo",
+  "timezone": "WITA"
+ },
+ {
+  "code": "ambon",
+  "lat": -3.7,
+  "lng": 128.19,
+  "name": "Ambon",
+  "province": "Maluku",
+  "timezone": "WIT"
+ },
+ {
+  "code": "sofifi",
+  "lat": 0.73,
+  "lng": 127.56,
+  "name": "Sofifi",
+  "province": "Maluku Utara",
+  "timezone": "WIT"
+ },
+ {
+  "code": "jayapura",
+  "lat": -2.56,
+  "lng": 140.71,
+  "name": "Jayapura",
+  "province": "Papua",
+  "timezone": "WIT"
+ },
+ {
+  "code": "manokwari",
+  "lat": -0.86,
+  "lng": 134.07,
+  "name": "Manokwari",
+  "province": "Papua Barat",
+  "timezone": "WIT"
+ },
+ {
+  "code": "sorong",
+  "lat": -0.87,
+  "lng": 131.25,
+  "name": "Sorong",
+  "province": "Papua Barat Daya",
+  "timezone": "WIT"
+ },
+ {
+  "code": "nabire",
+  "lat": -3.36,
+  "lng": 135.5,
+  "name": "Nabire",
+  "province": "Papua Tengah",
+  "timezone": "WIT"
+ },
+ {
+  "code": "wamena",
+  "lat": -4.1,
+  "lng": 138.92,
+  "name": "Wamena",
+  "province": "Papua Pegunungan",
+  "timezone": "WIT"
+ },
+ {
+  "code": "merauke",
+  "lat": -8.52,
+  "lng": 140.39,
+  "name": "Merauke",
+  "province": "Papua Selatan",
+  "timezone": "WIT"
+ },
+ {
+  "code": "bogor",
+  "lat": -6.6,
+  "lng": 106.8,
+  "name": "Bogor",
+  "province": "Jawa Barat",
+  "timezone": "WIB"
+ },
+ {
+  "code": "depok",
+  "lat": -6.4,
+  "lng": 106.82,
+  "name": "Depok",
+  "province": "Jawa Barat",
+  "timezone": "WIB"
+ },
+ {
+  "code": "bekasi",
+  "lat": -6.24,
+  "lng": 106.99,
+  "name": "Bekasi",
+  "province": "Jawa Barat",
+  "timezone": "WIB"
+ },
+ {
+  "code": "tangerang",
+  "lat": -6.18,
+  "lng": 106.64,
+  "name": "Tangerang",
+  "province": "Banten",
+  "timezone": "WIB"
+ },
+ {
+  "code": "tangerang-selatan",
+  "lat": -6.29,
+  "lng": 106.71,
+  "name": "Tangerang Selatan",
+  "province": "Banten",
+  "timezone": "WIB"
+ },
+ {
+  "code": "cirebon",
+  "lat": -6.71,
+  "lng": 108.57,
+  "name": "Cirebon",
+  "province": "Jawa Barat",
+  "timezone": "WIB"
+ },
+ {
+  "code": "sukabumi",
+  "lat": -6.9,
+  "lng": 106.94,
+  "name": "Sukabumi",
+  "province": "Jawa Barat",
+  "timezone": "WIB"
+ },
+ {
+  "code": "tasikmalaya",
+  "lat": -7.33,
+  "lng": 108.22,
+  "name": "Tasikmalaya",
+  "province": "Jawa Barat",
+  "timezone": "WIB"
+ },
+ {
+  "code": "surakarta",
+  "lat": -7.57,
+  "lng": 110.82,
+  "name": "Surakarta",
+  "province": "Jawa Tengah",
+  "timezone": "WIB"
+ },
+ {
+  "code": "malang",
+  "lat": -7.98,
+  "lng": 112.63,
+  "name": "Malang",
+  "province": "Jawa Timur",
+  "timezone": "WIB"
+ },
+ {
+  "code": "kediri",
+  "lat": -7.83,
+  "lng": 112.01,
+  "name": "Kediri",
+  "province": "Jawa Timur",
+  "timezone": "WIB"
+ },
+ {
+  "code": "madiun",
+  "lat": -7.59,
+  "lng": 111.57,
+  "name": "Madiun",
+  "province": "Jawa Timur",
+  "timezone": "WIB"
+ },
+ {
+  "code": "jember",
+  "lat": -8.2,
+  "lng": 113.63,
+  "name": "Jember",
+  "province": "Jawa Timur",
+  "timezone": "WIB"
+ },
+ {
+  "code": "probolinggo",
+  "lat": -7.76,
+  "lng": 113.23,
+  "name": "Probolinggo",
+  "province": "Jawa Timur",
+  "timezone": "WIB"
+ },
+ {
+  "code": "mojokerto",
+  "lat": -7.46,
+  "lng": 112.43,
+  "name": "Mojokerto",
+  "province": "Jawa Timur",
+  "timezone": "WIB"
+ },
+ {
+  "code": "batu",
+  "lat": -7.87,
+  "lng": 112.52,
+  "name": "Batu",
+  "province": "Jawa Timur",
+  "timezone": "WIB"
+ },
+ {
+  "code": "blitar",
+  "lat": -8.1,
+  "lng": 112.16,
+  "name": "Blitar",
+  "province": "Jawa Timur",
+  "timezone": "WIB"
+ },
+ {
+  "code": "pasuruan",
+  "lat": -7.64,
+  "lng": 112.91,
+  "name": "Pasuruan",
+  "province": "Jawa Timur",
+  "timezone": "WIB"
+ },
+ {
+  "code": "magelang",
+  "lat": -7.46,
+  "lng": 110.22,
+  "name": "Magelang",
+  "province": "Jawa Tengah",
+  "timezone": "WIB"
+ },
+ {
+  "code": "pekalongan",
+  "lat": -6.89,
+  "lng": 109.67,
+  "name": "Pekalongan",
+  "province": "Jawa Tengah",
+  "timezone": "WIB"
+ },
+ {
+  "code": "tegal",
+  "lat": -6.87,
+  "lng": 109.14,
+  "name": "Tegal",
+  "province": "Jawa Tengah",
+  "timezone": "WIB"
+ },
+ {
+  "code": "salatiga",
+  "lat": -7.33,
+  "lng": 110.5,
+  "name": "Salatiga",
+  "province": "Jawa Tengah",
+  "timezone": "WIB"
+ },
+ {
+  "code": "purwokerto",
+  "lat": -7.44,
+  "lng": 109.24,
+  "name": "Purwokerto",
+  "province": "Jawa Tengah",
+  "timezone": "WIB"
+ },
+ {
+  "code": "cilegon",
+  "lat": -6.03,
+  "lng": 106.05,
+  "name": "Cilegon",
+  "province": "Banten",
+  "timezone": "WIB"
+ },
+ {
+  "code": "batam",
+  "lat": 1.09,
+  "lng": 104.03,
+  "name": "Batam",
+  "province": "Kepulauan Riau",
+  "timezone": "WIB"
+ },
+ {
+  "code": "dumai",
+  "lat": 1.63,
+  "lng": 101.38,
+  "name": "Dumai",
+  "province": "Riau",
+  "timezone": "WIB"
+ },
+ {
+  "code": "binjai",
+  "lat": 3.6,
+  "lng": 98.48,
+  "name": "Binjai",
+  "province": "Sumatera Utara",
+  "timezone": "WIB"
+ },
+ {
+  "code": "pematang-siantar",
+  "lat": 2.96,
+  "lng": 99.07,
+  "name": "Pematang Siantar",
+  "province": "Sumatera Utara",
+  "timezone": "WIB"
+ },
+ {
+  "code": "tebing-tinggi",
+  "lat": 3.34,
+  "lng": 99.16,
+  "name": "Tebing Tinggi",
+  "province": "Sumatera Utara",
+  "timezone": "WIB"
+ },
+ {
+  "code": "padang-sidempuan",
+  "lat": 1.38,
+  "lng": 99.27,
+  "name": "Padang Sidempuan",
+  "province": "Sumatera Utara",
+  "timezone": "WIB"
+ },
+ {
+  "code": "sibolga",
+  "lat": 1.74,
+  "lng": 98.78,
+  "name": "Sibolga",
+  "province": "Sumatera Utara",
+  "timezone": "WIB"
+ },
+ {
+  "code": "lubuklinggau",
+  "lat": -3.27,
+  "lng": 102.91,
+  "name": "Lubuklinggau",
+  "province": "Sumatera Selatan",
+  "timezone": "WIB"
+ },
+ {
+  "code": "prabumulih",
+  "lat": -3.45,
+  "lng": 104.19,
+  "name": "Prabumulih",
+  "province": "Sumatera Selatan",
+  "timezone": "WIB"
+ },
+ {
+  "code": "metro",
+  "lat": -5.12,
+  "lng": 105.31,
+  "name": "Metro",
+  "province": "Lampung",
+  "timezone": "WIB"
+ },
+ {
+  "code": "cimahi",
+  "lat": -6.88,
+  "lng": 107.54,
+  "name": "Cimahi",
+  "province": "Jawa Barat",
+  "timezone": "WIB"
+ },
+ {
+  "code": "banjar",
+  "lat": -7.38,
+  "lng": 108.51,
+  "name": "Banjar",
+  "province": "Jawa Barat",
+  "timezone": "WIB"
+ },
+ {
+  "code": "balikpapan",
+  "lat": -1.16,
+  "lng": 116.88,
+  "name": "Balikpapan",
+  "province": "Kalimantan Timur",
+  "timezone": "WITA"
+ },
+ {
+  "code": "bontang",
+  "lat": 0.06,
+  "lng": 117.41,
+  "name": "Bontang",
+  "province": "Kalimantan Timur",
+  "timezone": "WITA"
+ },
+ {
+  "code": "tarakan",
+  "lat": 3.38,
+  "lng": 117.55,
+  "name": "Tarakan",
+  "province": "Kalimantan Utara",
+  "timezone": "WITA"
+ },
+ {
+  "code": "bitung",
+  "lat": 1.45,
+  "lng": 125.12,
+  "name": "Bitung",
+  "province": "Sulawesi Utara",
+  "timezone": "WITA"
+ },
+ {
+  "code": "tomohon",
+  "lat": 1.32,
+  "lng": 124.84,
+  "name": "Tomohon",
+  "province": "Sulawesi Utara",
+  "timezone": "WITA"
+ },
+ {
+  "code": "parepare",
+  "lat": -4.03,
+  "lng": 119.63,
+  "name": "Parepare",
+  "province": "Sulawesi Selatan",
+  "timezone": "WITA"
+ },
+ {
+  "code": "palopo",
+  "lat": -3.0,
+  "lng": 120.2,
+  "name": "Palopo",
+  "province": "Sulawesi Selatan",
+  "timezone": "WITA"
+ },
+ {
+  "code": "bau-bau",
+  "lat": -5.47,
+  "lng": 122.64,
+  "name": "Bau-Bau",
+  "province": "Sulawesi Tenggara",
+  "timezone": "WITA"
+ },
+ {
+  "code": "ternate",
+  "lat": 0.76,
+  "lng": 127.35,
+  "name": "Ternate",
+  "province": "Maluku Utara",
+  "timezone": "WIT"
+ },
+ {
+  "code": "tidore-kepulauan",
+  "lat": 0.33,
+  "lng": 127.8,
+  "name": "Tidore Kepulauan",
+  "province": "Maluku Utara",
+  "timezone": "WIT"
+ }
+]

@@ -1,0 +1,31 @@
+# jadwal-sholat-indonesia
+
+> API dan dataset jadwal sholat harian per kota di Indonesia, gratis.
+> 84 kota (38 ibu kota provinsi + kota-kota besar), tahun 2026–2028.
+> Metode Kementerian Agama RI (Subuh −20°, Isya −18°, Ashar Syafi'i, ikhtiyat).
+> JSON statis via CDN jsDelivr — tanpa install, tanpa API key, tanpa server.
+> Lisensi MIT.
+
+## Pakai
+
+- Daftar kota: https://cdn.jsdelivr.net/gh/ANGGATYASIA/jadwal-sholat-indonesia@main/api/cities.json
+- Meta: https://cdn.jsdelivr.net/gh/ANGGATYASIA/jadwal-sholat-indonesia@main/api/index.json
+- Jadwal: https://cdn.jsdelivr.net/gh/ANGGATYASIA/jadwal-sholat-indonesia@main/api/times/{kode_kota}/{tahun}.json
+  (contoh kode kota: jakarta, surabaya, makassar, medan, denpasar)
+
+Satu entri harian:
+`{"date":"2026-10-07","imsak":"04:10","subuh":"04:20","terbit":"05:32","dzuhur":"11:44","ashar":"14:46","maghrib":"17:50","isya":"18:58"}`
+Waktu dalam zona kota masing-masing (WIB/WITA/WIT).
+
+## Dokumen
+
+- [README](README.md): panduan lengkap + FAQ
+- [SUMBER-DATA](SUMBER-DATA.md): metode, parameter, tabel validasi vs jadwal resmi Kemenag
+- [Contoh JavaScript](examples/javascript.md), [Python](examples/python.md), [Laravel](examples/php-laravel.md)
+- [Demo widget](demo.html)
+
+## Fakta kunci
+
+- Akurasi tervalidasi ±2 menit terhadap jadwal resmi Bimas Islam Kemenag (DKI Jakarta, 7 Okt 2026).
+- Koordinat titik pusat kota (±0,1°); cocok untuk aplikasi, widget, dan reminder.
+- Gratis komersial (MIT). Untuk ibadah presisi, rujuk bimasislam.kemenag.go.id.

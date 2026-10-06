@@ -1,0 +1,29 @@
+{
+ "name": "jadwal-sholat-indonesia",
+ "description": "Jadwal sholat harian per kota di Indonesia, metode Kemenag RI",
+ "method": {
+  "name": "Kementerian Agama RI",
+  "fajr_angle": 20.0,
+  "isha_angle": 18.0,
+  "riseset_angle": 1.0,
+  "asr": "Syafi'i",
+  "ihtiyat_min": {
+   "dzuhur": 3,
+   "ashar": 2,
+   "maghrib": 2,
+   "isya": 2,
+   "subuh": 2,
+   "terbit": -2
+  },
+  "imsak_offset_min": 10
+ },
+ "cities": 84,
+ "years": [
+  2026,
+  2027,
+  2028
+ ],
+ "days_per_city_year": 365,
+ "source": "Perhitungan astronomis (hisab) mandiri berparameter Kemenag RI",
+ "license": "MIT"
+}

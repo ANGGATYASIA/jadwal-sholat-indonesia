@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# AI agent & automation tooling — keep this repo free of AI-identifying files
+.claude/
+.cursor/
+.windsurf/
+.codeium/
+.aider*
+.muse/
+*.ai-log
+.agent/
+agents.md
+AGENTS.md
